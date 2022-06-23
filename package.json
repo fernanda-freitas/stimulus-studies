@@ -1,7 +1,7 @@
 {
   "name": "03-Stimulus",
   "version": "1.0.0",
-  "main": "lib/index.js",
+  "main": "lib/app.js",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.1.6",
